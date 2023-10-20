@@ -1,4 +1,4 @@
-## Ejemplos para prácticas con cadenas de texto
+## Ejemplos para prácticar con cadenas de texto
 
 #### Ejemplo 1: muestra la longitud de un texto
 
@@ -164,7 +164,7 @@ Este programa debe pedir al usuario dos cadenas de texto y debe indicar si son i
         System.out.println("hola es igual a adios? "+cadena1.equalsIgnoreCase(cadena2));
 ```
 
-#### Ejercicio 9: sobre la cadena de texto "Jeve mola", reemplaza las vocales e por la vocal a.
+#### Ejemplo 9: sobre la cadena de texto "Jeve mola", reemplaza las vocales e por la vocal a.
 
 ```
 		String txt = "Jeve mola";
@@ -201,7 +201,7 @@ Este programa debe pedir al usuario dos cadenas de texto y debe indicar si son i
 		System.out.println("---------------------------------------------");
 ```
 
-#### Ejercicio 10: transforma los caracteres de una palabra escrita por el usuario a ASCII.
+#### Ejemplo 10: transforma los caracteres de una palabra escrita por el usuario a ASCII.
 
 Si la cadena es ABCD, la salida a obtener debería ser así:
 

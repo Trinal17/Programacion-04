@@ -20,11 +20,11 @@ Las cadenas de caracteres se almacenan en java utilizando la clase String . Java
 Hay que tener en cuenta que, puesto que las cadenas de texto en Java son inmutables, todos los métodos que realizan operaciones sobre un objeto String siempre devuelven el resultado, nunca lo ejecutan sobre el propio objeto. En el caso de los métodos static ocurre lo mismo.
 
 ### A tener en cuenta
-El tipo String es una clase asi que las cadenas de texto realmente son objetos Java
-Al tratarse de un objeto, podemos realizar algunas operaciones sobre la misma variable/objeto, como veremos más adelante
-Java nos permite utilizarlo como si fuera un tipo primitivo (aunque no lo sea) puesto que es un dato muy utilizado y asi nos será más cómodo
-Como realmente es un objeto, su valor por defecto será null
-Cualquier valor puede ser representado como una cadena de texto, por lo que normalmente será el tipo de dato utilizado siempre que se quiera recoger algún input del usuario
+- El tipo String es una clase asi que las cadenas de texto realmente son objetos Java
+- Al tratarse de un objeto, podemos realizar algunas operaciones sobre la misma variable/objeto, como veremos más adelante
+- Java nos permite utilizarlo como si fuera un tipo primitivo (aunque no lo sea) puesto que es un dato muy utilizado y asi nos será más cómodo
+- Como realmente es un objeto, su valor por defecto será null
+- Cualquier valor puede ser representado como una cadena de texto, por lo que normalmente será el tipo de dato utilizado siempre que se quiera recoger algún input del usuario
 
 ### Cuándo utilizar una cadena de texto
 Por supuesto, usaremos una cadena cuando queramos almacenar texto.
@@ -33,23 +33,24 @@ A veces, incluso cuando el valor que se quiere almacenar está compuesto exclusi
 
 Estos son algunos ejemplos:
 
-DNI
-Número de la Seguridad Social
-Cuenta Bancaria
-Teléfono
+- DNI
+- Número de la Seguridad Social
+- Cuenta Bancaria
+- Teléfono
+  
 Y si fuera necesario realizar alguna operación con sus dígitos (calcular dígitos de control, por ejemplo) siempre se puede recurrir al parseo del valor para realizar esos cálculos.
 
 Y, en definitiva, hay que tener en cuenta que todo input de usuario (tanto de consola como a través de formularios) viene siempre en forma de texto y somos nosotros quienes tenemos luego que parsearlo al tipo correcto (tras las comprobaciones)
 
 #### Casos de uso con cadenas
-Un usuario introduce su nombre y apellidos en una caja de texto
-Convertir a mayúscula/minúscula y eliminar los espacios a inicio y final
-Un usuario introduce su número de cuenta
-Convertir la cadena en un array de caracteres para realizar el cálculo del digito de control
-Un usuario introduce su número de DNI (con letra)
-Convertimos el valor a un número para hacer los cálculos y luego lo almacenamos todo junto (con letra) concatenando.
-Un usuario introduce un precio en un formulario
-Tras las comprobaciones (caja de texto vacía o valor sólo compuesto por dígitos) tendremos que parsearlo al tipo de dato que corresponda (float en este caso)
+- Un usuario introduce su nombre y apellidos en una caja de texto
+ - Convertir a mayúscula/minúscula y eliminar los espacios a inicio y final
+- Un usuario introduce su número de cuenta
+ - Convertir la cadena en un array de caracteres para realizar el cálculo del digito de control
+- Un usuario introduce su número de DNI (con letra)
+ - Convertimos el valor a un número para hacer los cálculos y luego lo almacenamos todo junto (con letra) concatenando.
+- Un usuario introduce un precio en un formulario
+ - Tras las comprobaciones (caja de texto vacía o valor sólo compuesto por dígitos) tendremos que parsearlo al tipo de dato que corresponda (float en este caso)
 
 ### Extracción de un caracter particular
 Podemos extraer un caracter indicando simplemente su posición, y lo obtendremos como una variable de tipo char. Obtendremos un error en caso de que no exista el caracter en la cadena.
@@ -168,7 +169,7 @@ System.out.println(String.format("%03d", valor);        // 045
 ### Convertir una cadena de caracteres en un array de caracteres
 A veces es interesante obtener una cadena como un array de valores char para operar con ellos de otra manera. La clase String dispone del método toCharArray() para convertir una cadena en un array de caracteres.
 
-``
+```
 String cadena = "CODE";
 char[] caracteres = cadena.toCharArray();
 System.out.println(Arrays.toString(caracteres));  // ['C', 'O', 'D', 'E']

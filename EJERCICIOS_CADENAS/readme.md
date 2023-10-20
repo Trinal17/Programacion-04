@@ -1,5 +1,5 @@
 
-# Ejercicio: validador de contraseñas
+# Ejercicio 1: validador de contraseñas
 
 Implementa un validador de contraseñas. Ésta se debe leer por teclado y debemos comprobar que cumple determinadas características:
 - Tiene entre 8 y 20 caracteres.
@@ -9,17 +9,17 @@ Implementa un validador de contraseñas. Ésta se debe leer por teclado y debemo
 
 Implementa un método que devuelva true o false para indicar si se cumplen los requisitos de contraseña válida o no. La contraseña debe enviarse al método como parámetro.
 
-# Ejercicio: carácter repetido
+# Ejercicio 2: carácter repetido
 
 Escribir un programa en Java que detecte el primer carácter repetido de una cadena de caracteres.
 
-# Ejercicio: cuenta vocales
+# Ejercicio 3: cuenta vocales
 
 Escribir un programa que cuente el número de vocales de una cadena de caracteres.
 
 Implementa un método que devuelva el número de vocales encontradas en una cadena recibida como parámetro.
 
-# Ejercicio: palíndromos
+# Ejercicio 4: palíndromos
 
 Implementa un detector de palíndromos en Java. 
 

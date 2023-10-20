@@ -93,7 +93,7 @@ El resultado a mostrar sería por ejemplo:
 El texto "esto es un ejemplo" tiene 7 vocales y 8 consonantes
 
 ```
-    String txt = "Java Java Java";
+    		String txt = "Java Java Java";
 		int vowels = 0, consonants = 0;
 		//With for traditional
 		for (int i = 0; i < txt.length(); i++) {
@@ -106,10 +106,10 @@ El texto "esto es un ejemplo" tiene 7 vocales y 8 consonantes
 			}
 		}
 		System.out.println(txt + " tiene " + vowels + " vocales y " + consonants + " consonantes");
+
+		//With forEach traditional - Avanzado, ya veremos los bucles forEach cuando demos los arrays
 		
-    //With forEach traditional - Avanzado, ya veremos los bucles forEach cuando demos los arrays
-		
-    vowels = 0;
+   		vowels = 0;
 		consonants = 0;
 		for (char character : txt.toCharArray()) {
 			txt = txt.replace(" ","");
@@ -144,7 +144,7 @@ Divide la siguiente cadena "Me gusta programar en java" en:
 #### Ejemplo 7: transforma el texto del ejercicio 6 primero a mayúsculas y después a minúsculas (todo el texto)
 
 ```
-  String txt = "Me gusta programar en Java";
+  		String txt = "Me gusta programar en Java";
 		System.out.println(txt + " en mayúsculas: " + txt.toUpperCase());
 		txt = txt.toUpperCase(); //JAVEROS
 		System.out.println(txt + " en minúsculas: " + txt.toLowerCase());
@@ -212,7 +212,7 @@ Código ASCII de B es 66
 ...
 
 ```
-String txt = "ABCD abcd";
+		String txt = "ABCD abcd";
                 
 		//With for traditional
 		for (int i = 0; i < txt.length(); i++) {

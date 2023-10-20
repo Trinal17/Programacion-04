@@ -20,7 +20,7 @@ Las cadenas de caracteres se almacenan en java utilizando la clase String . Java
 Hay que tener en cuenta que, puesto que las cadenas de texto en Java son inmutables, todos los métodos que realizan operaciones sobre un objeto String siempre devuelven el resultado, nunca lo ejecutan sobre el propio objeto. En el caso de los métodos static ocurre lo mismo.
 
 ### A tener en cuenta
-- El tipo String es una clase asi que las cadenas de texto realmente son objetos Java
+- El tipo String es una clase así que las cadenas de texto realmente son objetos Java
 - Al tratarse de un objeto, podemos realizar algunas operaciones sobre la misma variable/objeto, como veremos más adelante
 - Java nos permite utilizarlo como si fuera un tipo primitivo (aunque no lo sea) puesto que es un dato muy utilizado y asi nos será más cómodo
 - Como realmente es un objeto, su valor por defecto será null

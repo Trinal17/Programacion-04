@@ -44,13 +44,13 @@ Y, en definitiva, hay que tener en cuenta que todo input de usuario (tanto de co
 
 #### Casos de uso con cadenas
 - Un usuario introduce su nombre y apellidos en una caja de texto
- - Convertir a mayúscula/minúscula y eliminar los espacios a inicio y final
+   - Convertir a mayúscula/minúscula y eliminar los espacios a inicio y final
 - Un usuario introduce su número de cuenta
- - Convertir la cadena en un array de caracteres para realizar el cálculo del digito de control
+   - Convertir la cadena en un array de caracteres para realizar el cálculo del digito de control
 - Un usuario introduce su número de DNI (con letra)
- - Convertimos el valor a un número para hacer los cálculos y luego lo almacenamos todo junto (con letra) concatenando.
+   - Convertimos el valor a un número para hacer los cálculos y luego lo almacenamos todo junto (con letra) concatenando.
 - Un usuario introduce un precio en un formulario
- - Tras las comprobaciones (caja de texto vacía o valor sólo compuesto por dígitos) tendremos que parsearlo al tipo de dato que corresponda (float en este caso)
+   - Tras las comprobaciones (caja de texto vacía o valor sólo compuesto por dígitos) tendremos que parsearlo al tipo de dato que corresponda (float en este caso)
 
 ### Extracción de un caracter particular
 Podemos extraer un caracter indicando simplemente su posición, y lo obtendremos como una variable de tipo char. Obtendremos un error en caso de que no exista el caracter en la cadena.
@@ -177,7 +177,7 @@ System.out.println(Arrays.toString(caracteres));  // ['C', 'O', 'D', 'E']
 ```
 
 
-<pre>Referencia: https://java.codeandcoke.com/apuntes:cadenas</pre>
+<sub>Referencia: https://java.codeandcoke.com/apuntes:cadenas</sub>
 
 
 [VOLVER PÁGINA PRINCIPAL](https://github.com/profeMelola/Programacion-00-2023-24)

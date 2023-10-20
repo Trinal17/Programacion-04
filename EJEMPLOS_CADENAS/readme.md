@@ -74,7 +74,7 @@ JamesGolingcreóJava
         System.out.println("[1- tradicional] CADENA SIN ESPACIOS: "+txtRdo);
         
         // Con funciones de String
-        System.out.println("[2 - replace] CADENA SIN ESPACIOS: "+txt.replace(" "," "));
+        System.out.println("[2 - replace] CADENA SIN ESPACIOS: "+txt.replace(" ",""));
         
         System.out.println("[3 - replaceAll] CADENA SIN ESPACIOS: "+txt.replaceAll("\\s", ""));
 ```

@@ -31,7 +31,7 @@ Un palíndromo es una cadena de caracteres que se lee igual desde izquierda a de
 - Ana
 - salas
 - rajar
-- 
+  
 O también frases completas:
 - Dábale arroz a la zorra el abad
 - A luna ese anula

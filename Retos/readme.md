@@ -11,3 +11,7 @@ Escribe un método, que dado un objeto de la clase String cuente diferentes tipo
 En particular, el método deberá imprimir el número de letras, dígitos y espacios en blanco de la cadena.
 
 **Pista:** investiga en la clase Character qué métodos podrían ayudarte
+
+## RETO 2: reto 1 usando array
+
+Resuelve ahora el Reto1 pero usando el método toCharArray() de la clase String se puede obtener un array de caracteres a partir de un String.

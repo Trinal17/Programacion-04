@@ -18,7 +18,7 @@ Para usarlas vamos a tener que gestionar sus potenciales excepciones, este es un
 De momento si necesitas emplearlo copia la estructura y no es necesario que entiendas con precisión qué hacen las instrucciones try y catch.
 
 ```
-// Ejemplo espera con Thread.sleep(x)
+       // Ejemplo espera con Thread.sleep(x)
        System.out.println("-----Ejemplo de espera con Thread-----");
        System.out.println("Escóndete, te dos 2 segundos!");
        try {

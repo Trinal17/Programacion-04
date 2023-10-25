@@ -9,6 +9,9 @@ Implementa un validador de contraseñas. Ésta se debe leer por teclado y debemo
 
 Implementa un método que devuelva true o false para indicar si se cumplen los requisitos de contraseña válida o no. La contraseña debe enviarse al método como parámetro.
 
+## Ejercicio 1 versión 2
+El programa debe indicar exactamente que le falta a la contraseña para ser válida
+
 # Ejercicio 2: carácter repetido
 
 Escribir un programa en Java que detecte el primer carácter repetido de una cadena de caracteres.

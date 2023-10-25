@@ -50,4 +50,6 @@ Escribe un programa que simule la cuenta atrás del lanzamiento de un cohete. La
 ### Ejercicio2: barra de progreso
 Escribe un programa que simule una barra de carga del 0 al 100% dibujada progresivamente con saltos temporales.
 
+**Pista:** \r
+
 

@@ -11,7 +11,7 @@ En este ejemplo lo usaremos para producir retardos en la ejecución de nuestro c
 
 Esta funcionalidad no está muy vinculada con la unidad de trabajo, pero nos permite familiarizarnos con la gestión del tiempo en nuestros programas.
 
-Los dos métodos que emplearemos será mediante las clases Thread y TimeUnits. 
+Los dos métodos que emplearemos será mediante las clases **Thread y TimeUnits**. 
 
 Para usarlas vamos a tener que gestionar sus potenciales excepciones, este es un concepto más avanzado del curso.
 

@@ -34,5 +34,10 @@ Dicho programa debe preguntar por dos números enteros de la misma longitud (mis
 
 Se irá mostrando paso a paso el proceso de la suma. Por ejemplo:
 
-![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/169cf765-976a-4fd7-a4cb-b997f0635043)
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/ad6f0c01-8ffe-4f05-be37-a63503502556)
+
+## Versión 2: aprende a sumar números de diferente número de dígitos
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/e83076ed-a1d1-42ef-a416-3ac25208c89a)
+
 

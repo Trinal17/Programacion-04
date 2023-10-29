@@ -20,6 +20,9 @@ Usando las dos cadenas de texto debes realizar un programa que obtenga:
 - La fuerza media para cada dirección del viento, estas medias son solo para las direcciones Norte, Sur, Este y Oeste.
     - Cada muestra que tenga una dirección compuesta, como SO, se computa como media muestra para cada dirección asociada.
     - Por ejemplo, la Muestra S 10 es una muestra completa para sur con valor 10, SO 15 es media muestra con valor 15 para sur y media muestra con valor 15 para oeste.
+ 
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/80072f5d-c42b-4d84-8bad-d7013eb1be8a)
+
 
 # Aprende a sumar
 

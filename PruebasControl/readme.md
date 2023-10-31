@@ -1,5 +1,9 @@
 # Sensor de viento
 
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/a674475b-287d-45bf-b628-d0a8343f0a1e) ![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/1da16629-0aff-4e81-a1a0-139b6c27f556)
+
+
+
 Un sensor de viento nos proporciona los siguientes datos tras una hora tomando medidas:
 ```
 String dirViento = "NE#SO#NE#O#NE#SE#E#N#O#O#N#O#SE#NO#SO#SE#S#S#O#NO#SE#N#NO#NO#NE#SE#S#NO#O#SE#NO#SE#NE#E#NE#NE#SE#NO#SO#E#NE#S#NO#NE#SO#N#NE#SE#SO#NE#S#SE#NO#N#NE#NO#NO#SO#SE#N#NO#NE#N#E#O#E#O#N#NO#N#S#SO#SE#O#NE#N#NO#S#E#SE#NO#SE#E#S#NO#N#SE#SE#SO#NE#N#N#S#SE#S#O#N#SO#O#SE";

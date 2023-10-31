@@ -30,6 +30,9 @@ Usando las dos cadenas de texto debes realizar un programa que obtenga:
 
 # Aprende a sumar
 
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/de6f8b54-d9d5-4d9d-b2a3-5e2e5926c31c)
+
+
 Vas a implementar un programa que enseñe a sumar enteros a niños de primaria.
 
 Cuando aprendemos a sumar números nos explican el acarreo “llevarse una”.

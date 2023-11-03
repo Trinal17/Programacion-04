@@ -40,3 +40,11 @@ El array se rellena con números pares aleatorios comprendidos en el rango desde
 
 https://www.freecodecamp.org/espanol/news/algoritmos-de-ordenacion-explicados-con-ejemplos-en-javascript-python-java-y-c/
 
+https://youtu.be/7qvFbFzmqBk?si=ZUw4fD5Ls0ROc_jP
+
+https://www.youtube.com/watch?v=Xx84_1aWV60&t=7s
+
+
+
+
+

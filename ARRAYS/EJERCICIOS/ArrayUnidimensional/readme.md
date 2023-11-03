@@ -40,10 +40,18 @@ El array se rellena con números pares aleatorios comprendidos en el rango desde
 
 https://www.freecodecamp.org/espanol/news/algoritmos-de-ordenacion-explicados-con-ejemplos-en-javascript-python-java-y-c/
 
+**Ordenar arrays con el algoritmo de la burbuja en java**
+
 https://youtu.be/7qvFbFzmqBk?si=ZUw4fD5Ls0ROc_jP
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/03211d9a-31ed-4d68-8132-33066e732f37)
+
+
+**Algoritmo de ordenación QuickSort en Java**
 
 https://www.youtube.com/watch?v=Xx84_1aWV60&t=7s
 
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/9b9dac88-a2e4-4aa4-9cb7-8a35d5a55b63)
 
 
 

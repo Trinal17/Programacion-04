@@ -18,12 +18,13 @@ public class MasEjemplos {
         
         int[] array1 = new int[3];
         int[] array2 = {56,5,28,6};
+        int[] array3;
         
         array1[0] = 34;
         array1[1] = 23;
         array1[2] = 3;
         
-        //array2[0] = 1; // da error
+        //array3[0] = 1; // da error
         
         //array2 = {56,5,28,6}; // da error. Solo en la declaración
 

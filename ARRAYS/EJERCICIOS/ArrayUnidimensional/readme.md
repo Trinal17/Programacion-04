@@ -9,7 +9,7 @@ Mostrar la suma de todos los números aleatorios que se guardan en el array.
 
 ## Ejercicio 2
 
-Escribir una aplicación que solicite al usuario cuántos números desea introducir. A continuación, introducir por teclado esa cantidad de números eneros, y por último, mostrar en el orden inverso al introducido.
+Escribir una aplicación que solicite al usuario cuántos números desea introducir. A continuación, introducir por teclado esa cantidad de números enteros, y por último, mostrar en el orden inverso al introducido.
 
 ## Ejercicio 3
 

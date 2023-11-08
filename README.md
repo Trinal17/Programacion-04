@@ -8,10 +8,18 @@ Teoría en el aula virtual:
 https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php?id=526#section-10
 
 
-- CLASE String
-- Array unidimensionales: vectores
-- Array bidimensionales: tablas
-- Clase Arrays
+    • Estructuras.
+    • Arrays unidimensionales y multidimensionales:
+        ◦ Declaración.
+        ◦ Creación de arrays unidimensionales y multidimensionales.
+        ◦ Inicialización
+        ◦ Acceso a elementos.
+        ◦ Recorridos, búsquedas y ordenaciones.
+    • Cadenas de caracteres:
+        ◦ Declaración.
+        ◦ Creación de cadenas de caracteres.
+        ◦ Inicialización
+        ◦ Operaciones. Acceso a elementos, conversiones, concatenación.
 
 
 

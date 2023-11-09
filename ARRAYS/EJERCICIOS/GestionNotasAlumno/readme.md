@@ -20,7 +20,7 @@ El programa debe mostrar un menú:
 ![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/9e649266-ebdf-4490-9218-8b13734049c1)
 
 
-## OPCION 2: infomes
+### OPCIÓN 2: infomes
 
 Debe aparecer un submenú con las siguientes opciones:
 

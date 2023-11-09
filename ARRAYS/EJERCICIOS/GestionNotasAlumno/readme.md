@@ -2,6 +2,10 @@
 
 ## Objetivo
 
-Practicar con matrices (arrays bidimensionale)
+Practicar con matrices (arrays bidimensionales)
+
+## Descripción
+
+En construcción...
 
 ![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/234b5a19-aba1-43b8-a09a-c28456545b5f)

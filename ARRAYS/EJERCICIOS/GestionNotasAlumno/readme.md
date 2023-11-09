@@ -4,6 +4,8 @@
 
 Practicar con matrices (arrays bidimensionales)
 
+El programa tiene como objetivo ayudar al tutor para guardar las notas de los alumnos de 1º de DAW y poder obtener posteriormente diferentes informes.
+
 ## Descripción
 
 El programa debe mostrar un menú:

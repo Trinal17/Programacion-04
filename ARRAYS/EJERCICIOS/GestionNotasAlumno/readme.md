@@ -27,5 +27,5 @@ Debe aparecer un submenú con las siguientes opciones:
 3. Nota media de cada módulo
 4. Nota media de cada alumno
 5. Ver nota de un alumno en un módulo concreto
-6. Salir
+6. Volver al menú principal
 ```

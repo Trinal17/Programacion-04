@@ -15,7 +15,8 @@ El programa debe mostrar un menú:
 
 ### OPCIÓN 1: cargar datos de alumnos
 
-![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/234b5a19-aba1-43b8-a09a-c28456545b5f)
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/9e649266-ebdf-4490-9218-8b13734049c1)
+
 
 ## OPCION 2: infomes
 
@@ -29,3 +30,5 @@ Debe aparecer un submenú con las siguientes opciones:
 5. Ver nota de un alumno en un módulo concreto
 6. Volver al menú principal
 ```
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/76e5c83a-442b-4eb1-ae9f-447cf05aabcb)

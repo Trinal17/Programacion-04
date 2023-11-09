@@ -8,4 +8,7 @@
 
 ![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/99acb097-354b-459f-ae17-1e33d2b6dc08)
 
+## Matriz irregular
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/9bc6f863-aa76-4ae7-86eb-9c9ecbe46e91)
 

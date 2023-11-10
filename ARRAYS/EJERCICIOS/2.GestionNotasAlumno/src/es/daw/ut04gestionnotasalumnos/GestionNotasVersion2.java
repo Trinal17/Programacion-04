@@ -1,5 +1,6 @@
 /*
  * https://github.com/profeMelola/Programacion-04-2023-24/tree/main/ARRAYS/EJERCICIOS/2.GestionNotasAlumno#programa-para-la-gesti%C3%B3n-de-notas-de-los-alumnos
+ * VERSIÓN 09/11/2023
  */
 package es.daw.ut04gestionnotasalumnos;
 
@@ -147,37 +148,5 @@ public class GestionNotasVersion2 {
         return notas;
         
     }
-    /*
-    private static float[][] cargarNotasByAlumno() {
-        Scanner sc = new Scanner(System.in);
-
-        System.out.println("Vas a cargar las notas completas de cada alumno!!");
-        System.out.println("¿De cuántos alumnos vas a introducir notas?");
-        int numAlumnos = sc.nextInt();
-        sc.nextLine();
-
-        // Una vez que se el número de alumnos tengo que declarar:
-        // - La matriz con su número de filas
-        // - El array de nombres con tu tamaño (nombres de los alumnos)
-        float[][] matriz = new float[numAlumnos][MODULOS.length];
-        nombresAlumnos = new String[numAlumnos];
-
-        for (int i = 0; i < matriz.length; i++) {
-            System.out.println("Introduce el nombre del alumno <" + (i + 1) + ">:");
-            nombresAlumnos[i] = sc.nextLine();
-
-            System.out.println("\tAhora vas a introducir las notas de " + nombresAlumnos[i]);
-
-            for (int j = 0; j < matriz[i].length; j++) {
-                //for (int j = 0; j < MODULOS.length; j++) {
-                System.out.println("\tIntroduce la nota de " + MODULOS[j]);
-                matriz[i][j] = sc.nextFloat();
-            }
-
-            sc.nextLine();
-        }
-
-        return matriz;
-    }*/
     
 }

@@ -66,4 +66,4 @@ Debe aparecer un submenú con las siguientes opciones:
 6. Volver al menú principal
 ```
 
-![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/76e5c83a-442b-4eb1-ae9f-447cf05aabcb)
+

@@ -66,4 +66,4 @@ Debe aparecer un submenú con las siguientes opciones:
 6. Volver al menú principal
 ```
 
-
+Crea una **nueva clase llamada Informes en el paquete es.daw.ut04gestionnotasalumnos** donde vamos a implementar los diferentes métodos, uno por cada opción del submenú de informes.

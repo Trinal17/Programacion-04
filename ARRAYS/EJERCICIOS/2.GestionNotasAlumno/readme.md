@@ -72,6 +72,9 @@ Crea una **nueva clase llamada Informes en el paquete es.daw.ut04gestionnotasalu
 
 ¿Qué aplicación práctica se te ocurre para utilizar un array de 3 dimensiones?
 
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/0e31c61d-8918-4e7b-93c7-5ad4e4378592)
+
+
 
 
 

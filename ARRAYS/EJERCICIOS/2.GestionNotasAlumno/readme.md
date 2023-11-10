@@ -6,6 +6,9 @@ Practicar con matrices (arrays bidimensionales)
 
 El programa tiene como objetivo ayudar al tutor para guardar las notas de los alumnos de 1º de DAW y poder obtener posteriormente diferentes informes.
 
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/4fc45a79-cd04-4644-905a-9960cdf4939a)
+
+
 ## Version 1: sin pedir datos al usuario
 
 He dejado la solución de esta versión.

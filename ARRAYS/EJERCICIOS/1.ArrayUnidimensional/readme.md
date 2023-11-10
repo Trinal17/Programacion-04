@@ -31,6 +31,14 @@ Escribir la función **int[] rellenaPares(int longitud, int fin)** que crea y de
 
 El array se rellena con números pares aleatorios comprendidos en el rango desde 2 hasta **fin** (inclusive)
 
+**Después, implementa el mismo ejercicio pero en vez de utilizar Arrays.sort con un método creado por ti siguiendo el algoritmo de intercambio.**
+
+**CURIOSIDAD:** el método sort de la clase Arrays utiliza un algoritmo de ordenación llamado "Dual-Pivot Quicksort" (o "QuickSort de doble pivote") desde Java 7 en adelante. Antes de Java 7, se utilizaba un algoritmo de ordenación llamado "MergeSort". El Dual-Pivot Quicksort es una variante del algoritmo Quicksort que utiliza dos pivotes en lugar de uno para dividir el array en subarrays durante el proceso de ordenación. Esto puede mejorar el rendimiento en comparación con el Quicksort tradicional de un solo pivote, ya que reduce el número de comparaciones y movimientos de elementos en el array. El Dual-Pivot Quicksort es un algoritmo de ordenación eficiente en la mayoría de los casos y tiene un rendimiento promedio de O(n log n) en comparación y O(n^2) en el peor caso.
+
+El algoritmo de ordenación utilizado por Arrays.sort en Java es altamente optimizado y está diseñado para manejar una amplia variedad de tipos de datos y escenarios de ordenación. Java también proporciona métodos sobrecargados para ordenar matrices de diferentes tipos de datos, lo que hace que la ordenación sea conveniente y eficiente en el lenguaje.
+
+En general, Arrays.sort es una forma confiable y eficiente de ordenar arreglos en Java.
+
 ### Algoritmos de ordenación
 
 **Intercambio:** consiste en comparar el primer valor con el resto de las posiciones posteriores, cambiando el valor de las posiciones en caso de que el segundo sea menor que el primero comparado, después la segunda posición con el resto de posiciones posteriores.

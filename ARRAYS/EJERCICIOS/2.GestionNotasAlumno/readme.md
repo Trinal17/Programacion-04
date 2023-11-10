@@ -16,6 +16,7 @@ Además, podemos entender:
 - cómo mostrar datos de las filas ( notas de cada alumno en los 6 módulos).
 - cómo mostrar datos de las columnas (notas de todos los alumnos en un módulo concreto).
 
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/0a28290e-d9ed-4039-8d1b-bde018641e77)
 
 
 ## Versión 2: programa completo. Carga dinámica de datos

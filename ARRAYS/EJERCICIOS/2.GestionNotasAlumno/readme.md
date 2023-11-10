@@ -70,7 +70,7 @@ Crea una **nueva clase llamada Informes en el paquete es.daw.ut04gestionnotasalu
 
 ### Versión 3: con matriz irregular
 
-¿Y si de cada alumno se introduce un número diferente de notas porque no todos los alumnos están matriculados en todos los módulos?
+**¿Y si de cada alumno se introduce un número diferente de notas porque no todos los alumnos están matriculados en todos los módulos?**
 
 Vamos a suponer ese caso:
 - Haremos la defición de la matriz irregular

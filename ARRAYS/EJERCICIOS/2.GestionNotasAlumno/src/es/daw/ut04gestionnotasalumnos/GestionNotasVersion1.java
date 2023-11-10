@@ -78,10 +78,12 @@ public class GestionNotasVersion1 {
         //pendiente rellenar el resto de celdas....
         
         //2.  INICIALIZACIÓN FILA A FILA
-        float[][] notasClase2 ={{4.5f, 5, 7, 8.3f, 10, 5},
+        float[][] notasClase2 ={
+            {4.5f, 5, 7, 8.3f, 10, 5},
             {3 , 5, 6.7f, 9, 2, 3.4f},
             {9 , 5, 6.7f, 9, 3, 5.4f},
-            {1,1,1,1,1,1}};
+            {1,1,1,1,1,1}
+        };
         
         float[][] notasClase3 ={notas1,notas2,notas3,notas4};
         
@@ -96,7 +98,8 @@ public class GestionNotasVersion1 {
         // ------------------------------
         // -------------
         // DAMOS POR HECHO QUE EL PROFESOR HA INDICADO QUE VA A TRABAJAR CON 4 ALUMNOS
-        nombresAlumnos = new String[numAlumnos]; //4 es el número de alumnos y el número de filas de la matriz
+        //4 es el número de alumnos y el número de filas de la matriz
+        nombresAlumnos = new String[numAlumnos]; 
         nombresAlumnos[0] = "Pepe";
         nombresAlumnos[1] = "Ana";
         nombresAlumnos[2] = "María";

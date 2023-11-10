@@ -24,9 +24,9 @@ Además, podemos entender:
 
 ## Versión 2: programa completo. Carga dinámica de datos
 
-### Descripción
+### Requisitos
 
-El programa debe mostrar un menú principal:
+1. El programa debe mostrar un menú principal:
 
 ```
 1. Cargar datos de alumnos
@@ -34,9 +34,11 @@ El programa debe mostrar un menú principal:
 3. Salir
 ```
 
-Hay que tener en cuenta que podemos introducir notas con decimales.
+2. Primero vamos a trabajar con una única clase principal de forma modular. Con diferentes métodos estáticos (funciones). Después vamos a refactorizar y crear un nuevo paquete con una clase de utilidades que contendrá los métodos estáticos.
 
-Además vas a tener que gestionar submenús (submenú de la opción de informes).
+3. Hay que tener en cuenta que podemos introducir notas con decimales.
+
+4. Además vas a tener que gestionar submenús (submenú de la opción de informes).
 
 A continuación se muestra cómo debería quedar la gestión de menús completa:
 

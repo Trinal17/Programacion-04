@@ -13,7 +13,9 @@ El programa debe mostrar un menú:
 2. Informes
 3. Salir
 
-   
+A continuación se muestra cómo debería quedar la gestión de menús completa:
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/70e8d05d-dbca-44f6-9993-7366c46ef641)
 
 ### OPCIÓN 1: cargar datos de alumnos
 

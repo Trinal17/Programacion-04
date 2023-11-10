@@ -26,12 +26,17 @@ Además, podemos entender:
 
 ### Descripción
 
-El programa debe mostrar un menú:
+El programa debe mostrar un menú principal:
+
+```
 1. Cargar datos de alumnos
 2. Informes
 3. Salir
+```
 
 Hay que tener en cuenta que podemos introducir notas con decimales.
+
+Además vas a tener que gestionar submenús (submenú de la opción de informes).
 
 A continuación se muestra cómo debería quedar la gestión de menús completa:
 

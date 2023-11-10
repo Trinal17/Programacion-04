@@ -64,6 +64,14 @@ Debe aparecer un submenú con las siguientes opciones:
 4. Nota media de cada alumno
 5. Ver nota de un alumno en un módulo concreto
 6. Volver al menú principal
-```
 
+```
 Crea una **nueva clase llamada Informes en el paquete es.daw.ut04gestionnotasalumnos** donde vamos a implementar los diferentes métodos, uno por cada opción del submenú de informes.
+
+### Versión 3: con arrays de 3 dimensiones
+
+¿Qué aplicación práctica se te ocurre para utilizar un array de 3 dimensiones?
+
+
+
+

@@ -68,7 +68,19 @@ Debe aparecer un submenú con las siguientes opciones:
 ```
 Crea una **nueva clase llamada Informes en el paquete es.daw.ut04gestionnotasalumnos** donde vamos a implementar los diferentes métodos, uno por cada opción del submenú de informes.
 
-### Versión 3: con arrays de 3 dimensiones
+### Versión 3: con matriz irregular
+
+¿Y si de cada alumno se introduce un número diferente de notas porque no todos los alumnos están matriculados en todos los módulos?
+
+Vamos a suponer ese caso:
+- Haremos la defición de la matriz irregular
+- Simplemente por cada alumno mostraremos:
+  - la media de sus notas
+  - el número de módulos aprobados y el número de módulos suspensos
+
+
+
+### Versión 4: con arrays de 3 dimensiones
 
 ¿Qué aplicación práctica se te ocurre para utilizar un array de 3 dimensiones?
 

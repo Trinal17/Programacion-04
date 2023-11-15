@@ -29,3 +29,9 @@ El usuario debe poder seleccionar la palabra que quiere encontrar.
 Tras la selección se redibujará la sopa de letras con las letras de la palabra seleccionada marcada en un color diferente. 
 
 Ten en cuenta que las palabras solo pueden aparecer de izquierda a derecha, de arriba a abajo y en diagonal de izquierda-arriba a derecha-abajo.
+
+## Ejemplo salida consola
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/9b61aec9-2922-482e-ab02-65288edbbae2)
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/4c70ee8b-cca3-4a38-8fbe-bbd58c6a6b43)
+

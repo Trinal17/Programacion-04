@@ -31,3 +31,35 @@ Ten en cuenta que las palabras solo pueden aparecer de izquierda a derecha, de a
 
 ![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/4c70ee8b-cca3-4a38-8fbe-bbd58c6a6b43)
 
+## PISTAS
+
+```
+        // Array de String simulando una fila de letras
+        String[] letras={"X","C","A","S","A","Z","F","W"};
+        
+        System.out.println("ARRAY ORIGINAL:");
+        System.out.println(Arrays.toString(letras));
+        
+        // Quiero marcar en rojo la palabra CASA
+        String palabra = "CASA";
+        // He encontrado que el índice donde empieza la C es el 1
+        int index = 1;
+        
+        //color rojo
+        String rojo = "\033[31m"; 
+        String rojoNegrita = "\033[1;31m";
+        String negro = "\033[30m"; 
+        
+        for (int i= index; i<palabra.length();i++){
+            letras[i]= rojo+letras[i]+negro;
+            // Si no vuelvo a poner el negro al final .... todo se pinta con el último color marcado
+            //letras[i]= rojo+letras[i];
+        }
+        
+        System.out.println("ARRAY CON LA PALABRA MARCADA:");
+        System.out.println(Arrays.toString(letras));
+```
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/fe9e6e67-9e16-4092-b4cb-510cb93f0d0c)
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/4083f53d-2aa4-466c-a048-10400455de3b)

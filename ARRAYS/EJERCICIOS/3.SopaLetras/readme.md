@@ -1,9 +1,5 @@
 # Sopa de letras
-
-![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/8a3c52ad-e273-43a5-af10-5fcb7e74f863)
-
 A partir de estos dos arrays:
-
 ```
 String[][] sopa = {
 {"A", "E", "Y", "I", "V", "Y", "S", "A", "U", "R", "C", "W", "N", "M", "N", "N", "I", "H"},

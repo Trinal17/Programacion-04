@@ -23,7 +23,7 @@ Debes implementar un programa que tenga un método que reciba un array y lo devu
 Partes del siguiente array:
 
 ```
-int[] enteros = {45,37,8,17,23,39}
+int[] enteros = {45,37,8,17,23,39};
 ```
 
 El algoritmo de la burbuja es el siguiente:

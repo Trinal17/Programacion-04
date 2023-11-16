@@ -20,14 +20,27 @@ Resuelve ahora el Reto1 pero usando el método toCharArray() de la clase String 
 
 Debes implementar un programa que tenga un método que reciba un array y lo devuelva ordenado por el algoritmo de la burbuja.
 
+El algoritmo de la burbuja es el siguiente:
+
+![final-bubble-sort](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/ada3eb06-8144-48f4-beb4-52e82048f076)
+
 Partes del siguiente array:
 
 ```
-int[] enteros = {45,37,8,17,23,39};
+int[] enteros = {8, 3, 1, 19, 14};
 ```
 
-El algoritmo de la burbuja es el siguiente:
+
+![Captura de pantalla de 2023-11-16 21-00-44](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/2e8d5c33-3c54-46a8-9acd-da6d32cb0539)
+
+![Captura de pantalla de 2023-11-16 21-01-14](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/359bdb69-f4b7-47d6-a81b-2344c9f56731)
+
+![Captura de pantalla de 2023-11-16 21-01-42](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/4b164a1a-3705-46f9-b6b5-51cf8d085662)
+
+![Captura de pantalla de 2023-11-16 21-02-07](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/dd66c305-b587-4142-9a0e-63a3a668aa4e)
 
 
-![Captura de pantalla de 2023-11-16 20-54-22](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/4752e5f5-8834-446c-ad09-5bcca3400e10)
+
+
+
 

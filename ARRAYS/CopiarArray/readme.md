@@ -9,7 +9,7 @@ Uno de los métodos que nos ha quedado pendiente ver es el siguiente:
 ![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/aad788e4-aaa5-4fec-9913-d58f3d5f7523)
 
 
-## Ejercicio
+## Ejercicio (concepto deep copy y shallow copy)
 Crea un array bidimensional y realiza su copia con clone.
 Modifica la matriz original, cualquiera de sus valores, y muestra el contenido de la matriz copia.
 

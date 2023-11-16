@@ -23,9 +23,9 @@ Debes implementar un programa que tenga un método que reciba un array y lo devu
 Partes del siguiente array:
 
 ```
-int[] enteros = {5,2,4,1,3}
+int[] enteros = {50,26,7,9,15,27}
 ```
 
 El algoritmo de la burbuja es el siguiente:
 
-![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/32c10388-7eda-4d9d-8594-601251de98d7)
+int[][] producto = new int[mA.length][mB[0].length];

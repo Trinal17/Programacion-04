@@ -23,10 +23,11 @@ Debes implementar un programa que tenga un método que reciba un array y lo devu
 Partes del siguiente array:
 
 ```
-int[] enteros = {50,26,7,9,15,27}
+int[] enteros = {45,37,8,17,23,39}
 ```
 
 El algoritmo de la burbuja es el siguiente:
 
-![Captura de pantalla de 2023-11-16 20-44-14](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/228b18d2-1d96-44a6-9ccf-e16e613e7a21)
+
+![Captura de pantalla de 2023-11-16 20-54-22](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/4752e5f5-8834-446c-ad09-5bcca3400e10)
 

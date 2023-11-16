@@ -13,7 +13,8 @@ Uno de los métodos que nos ha quedado pendiente ver es el siguiente:
 Crea un array bidimensional y realiza su copia con clone.
 Modifica la matriz original, cualquiera de sus valores, y muestra el contenido de la matriz copia.
 
-![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/441ebc9a-4749-4265-a58a-cb9350a438c5)
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/c2ba25b1-4ba6-4b63-9be9-0c5e1b4c8f47)
+
 **¿Se ha modificado el contenido de la matriz copia?**
 
 ### Teoría en el aula virtual (apartado 4. Copiar un array bidimensional en otro usando clone())

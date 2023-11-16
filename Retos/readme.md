@@ -15,3 +15,17 @@ En particular, el método deberá imprimir el número de letras, dígitos y espa
 ## RETO 2: reto 1 usando array
 
 Resuelve ahora el Reto1 pero usando el método toCharArray() de la clase String se puede obtener un array de caracteres a partir de un String.
+
+## RETO 3: algoritmo de ordenación la burbuja
+
+Debes implementar un programa que tenga un método que reciba un array y lo devuelva ordenado por el algoritmo de la burbuja.
+
+Partes del siguiente array:
+
+```
+int[] enteros = {5,2,4,1,3}
+```
+
+El algoritmo de la burbuja es el siguiente:
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/32c10388-7eda-4d9d-8594-601251de98d7)

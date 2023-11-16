@@ -28,4 +28,5 @@ int[] enteros = {50,26,7,9,15,27}
 
 El algoritmo de la burbuja es el siguiente:
 
-int[][] producto = new int[mA.length][mB[0].length];
+![Captura de pantalla de 2023-11-16 20-44-14](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/228b18d2-1d96-44a6-9ccf-e16e613e7a21)
+

@@ -59,8 +59,8 @@ public class Ejercicio5 {
      * Algoritmo de ordenación por intercambio
      */
     public static void ordenarAscendente(int[] numeros){
-        // Recorremos el array desde la primera posición hasta la penúltima
-        for (int i=0; i < (numeros.length - 1);i++){
+        // Recorremos el array desde la primera posición hasta la última
+        for (int i=0; i < numeros.length;i++){
             //Recorremos el array desde el elemento siguiente (i+1) hasta la última posición
             for(int j= (i+1); j< numeros.length; j++){
                 //Si el elemento en posición anterior es mayor que el elemento en posición posterior

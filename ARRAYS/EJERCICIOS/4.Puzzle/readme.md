@@ -2,6 +2,10 @@
 
 Nuestro objetivo es crear una aplicación que genere un  puzzle de letras partiendo de una lista de palabras. 
 
+```
+String[] palabras = {"AEREO", "CLAVE", "FINCA", "GALLO", "GARRA"};
+```
+
 La condición es que todas las palabras de la lista tengan el mismo número de letras en forma de una tabla (como aparece en la figura) 
 
 ![image](https://user-images.githubusercontent.com/91023374/138914319-ee9cf0d9-675a-46bf-8502-226334b13f69.png)

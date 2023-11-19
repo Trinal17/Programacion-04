@@ -5,10 +5,13 @@
 package es.daw.matrices_desde_cero;
 
 import es.daw.matrices_desde_cero.util.ParkingUtils;
-import static es.daw.matrices_desde_cero.util.ParkingUtils.cargarParking;
+/*import static es.daw.matrices_desde_cero.util.ParkingUtils.cargarParking;
 import static es.daw.matrices_desde_cero.util.ParkingUtils.cargarParkingAutomatico;
 import static es.daw.matrices_desde_cero.util.ParkingUtils.pintaParking;
-import static es.daw.matrices_desde_cero.util.ParkingUtils.valorCelda;
+import static es.daw.matrices_desde_cero.util.ParkingUtils.sumaFila;
+import static es.daw.matrices_desde_cero.util.ParkingUtils.valorCelda;*/
+import static es.daw.matrices_desde_cero.util.ParkingUtils.*;
+        
 import java.util.Scanner;
 
 /**
@@ -78,7 +81,7 @@ public class MatricesApp {
         
         // Dos formas de llamar al método cargarParking
         //es.daw.matrices_desde_cero.util.ParkingUtils.cargarParking(parkingVacio);
-        cargarParking(parkingVacio);
+        //cargarParking(parkingVacio);
         
         System.out.println("************ EJEMPLO 2 MATRIZ *****************");
         pintaParking(parkingVacio);
@@ -106,7 +109,8 @@ public class MatricesApp {
         
         pintaParking(parkingTochoRegular);
         
-        // OTRO EJEMPLO. Método que rellena la matriz según el número de plazas dibujadas en la pizarra
+        // OTRO EJEMPLO. 
+        //Método que rellena la matriz según el número de plazas dibujadas en la pizarra
         // Tal cual la pizarra!!!!
         int[][] parkingRelleno = cargarParkingAutomatico();
         
@@ -117,7 +121,33 @@ public class MatricesApp {
         int numPlazas = valorCelda(parkingRelleno, 1, 1);
         System.out.println("******* El número de plazas de coche que tiene el parking obispado es: "+numPlazas);
         
+        // Dime el número de plazas (de todos los tipos de vehículos)
+        // de la segunda fila
+        // Si le muestro un menú indicando
+        // torpedo!!! elige un parking
+        // 1. La Paloma
+        // 2. El obispado
+        // 3. Complutense
+        // El usuario indica ===> el 2
+        // El programa resta a la opción elegida -1
+        // El Obispado se correponde al índice 1 de las filas
         
+        // Dame el número total de plazas para aparcar del parking El obispado
+        numPlazas = sumaFila(parkingRelleno,1);
+        System.out.println("*********** Número de plazas del parking el obispado:"+numPlazas);
+        
+        // Dame el número de plazas de coches de todos los parking
+        // Le muestro un menú al usuario.
+        // Torpedo!!! elige un tipo de vehículo
+        // 1. Moto
+        // 2. Coche
+        // 3. Furgoneta
+        // El usuario indica ==> el 2 (coche)
+        // El programa resta a la opción elegida -1
+        
+        // Devuelve el número total de plazas de coche de los parking (son 3)
+        numPlazas = sumaColumna(parkingRelleno,1);
+        System.out.println("**************Número de plazas de coche en Alcalá son:"+numPlazas);
                 
     }
     

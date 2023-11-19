@@ -93,20 +93,39 @@ public class ParkingUtils {
      * @return 
      */
     public static int sumaFila(int[][] matriz, int fila){
-        //PENDIENTE COMPLETAR
-        return 0;
+        
+        /*
+        int[] filaArray = matriz[fila]; // vector de la fila
+        
+        for (int i = 0; i < filaArray.length; i++) {
+            
+        }*/
+        int suma = 0;
+        for (int col = 0; col < matriz[fila].length; col++) {
+            suma += matriz[fila][col];
+        }
+        return suma;
     }
     
     /**
      * Devuelve la suma de una columna concreta
      * En este caso la columna es las plazas de un tipo de vehículo concreto
      * @param matriz
-     * @param fila
+     * @param col
      * @return 
      */
-    public static int sumaColumna(int[][] matriz, int fila){
-        //PENDIENTE COMPLETAR
-        return 0;
+    public static int sumaColumna(int[][] matriz, int col){
+        int suma = 0;
+        
+        //for (int i = 0; i < matriz[0].length; i++) // es lo mismo porque es una matriz regular
+        // matriz.length ==> número filas
+        //matriz[0].length ==> el número de columnas
+        
+        for (int i = 0; i < matriz.length; i++) {
+            suma += matriz[i][col];
+        }
+        
+        return suma;
     }
     
     /**

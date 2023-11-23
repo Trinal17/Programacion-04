@@ -46,10 +46,10 @@ public class OperacionesMatrices {
 //        int[][] resultadoResta = restarMatrices(matrizA, matrizB);
 //        System.out.println("* El resultado de la resta de matrices es:");
 //        pintarMatriz(resultadoResta);
-//        
-//        int[][] resultadoMulti = multiplicarMatrices(matrizA, matrizC);
-//        System.out.println("* El resultado de la multiplicación de matrices es:");
-//        pintarMatriz(resultadoMulti);
+        
+        int[][] resultadoMulti = multiplicarMatrices(matrizA, matrizC);
+        System.out.println("* El resultado de la multiplicación de matrices es:");
+        pintarMatriz(resultadoMulti);
         
         
         
@@ -100,10 +100,32 @@ public class OperacionesMatrices {
         // la matriz resultado de la multiplación tiene:
         // El número de filas de la mA
         // El número de columnas de la mB
-        int[][] multiplicar = new int[mA.length][mB[0].length];
         
-        // PENDIENTE COMPLETAR
-        return multiplicar;
+        // Matriz resultante: número de filas de mA y número de columnas de mB
+        int[][] producto = new int[mA.length][mB[0].length];
+        
+        // Por cada columna de la segunda matriz (B)
+        // Cojo la longitud de la primera fila que dará el número de columnas de la segunda matriz
+        for (int col = 0; col < mB[0].length; col++) {
+            
+            // Dentro recorremos las filas de la primera (A)
+            for (int i = 0; i < mA.length; i++) {
+                int suma = 0;
+                
+                // Y cada columna de la primera (A)
+                for (int j = 0; j < mA[0].length; j++) {
+                    // Multiplicamos y sumamos resultado
+                    
+                    suma += mA[i][j] * mB[j][col];
+                    
+                }
+                
+                // Lo acomodamos dentro del producto
+                producto[i][col] = suma;
+            }
+        }
+        return producto;
+        
     }
     
     /**

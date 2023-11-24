@@ -44,7 +44,7 @@ int[] enteros = {8, 3, 1, 19, 14};
 Una palabra o frase es **heterograma** si no parece repetida ninguna de las letras que la componen (vocales y consonantes).
 
 
-Dada una cadena concreta:
+Dada una cadena concreta (no tenemos en cuenta acentos, damos por hecho que no llegan vocales acentuadas):
 ```
 String cadena = "centrifugado,hiperblanduzcos,Java,yuxtaponer,cocodrilo, y fin";
 ```

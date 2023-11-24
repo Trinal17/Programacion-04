@@ -41,7 +41,8 @@ int[] enteros = {8, 3, 1, 19, 14};
 
 ## RETO 4: heterograma 
 
-Teniendo en cuenta que una palabra o frase es **heterograma** si no parece repetida ninguna de las letras que la componen (vocales y consonantes)
+Una palabra o frase es **heterograma** si no parece repetida ninguna de las letras que la componen (vocales y consonantes).
+
 
 Dada una cadena concreta:
 ```

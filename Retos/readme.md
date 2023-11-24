@@ -39,8 +39,20 @@ int[] enteros = {8, 3, 1, 19, 14};
 
 ![Captura de pantalla de 2023-11-16 21-02-07](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/dd66c305-b587-4142-9a0e-63a3a668aa4e)
 
+## RETO 4: heterograma 
+
+Teniendo en cuenta que una palabra o frase es **heterograma** si no parece repetida ninguna de las letras que la componen (vocales y consonantes)
+
+Dada una cadena concreta:
+```
+String cadena = "centrifugado,hiperblanduzcos,Java,yuxtaponer,cocodrilo, y fin";
+```
+
+Tu programa debe mostrar por consola si cada una de las palabras o frases de la cadena son heterogramas o  no:
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/a91846af-09d7-4ca8-8db6-027bc5a19fc1)
 
 
-
+Para ello debes programar una función que reciba una cadena y devuelva un booleano indicando si he heterograma o no.
 
 

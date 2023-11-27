@@ -6,7 +6,7 @@ package es.daw.ut04ejerciciosarrays1d;
 import java.util.Random;
 
 /**
- *
+ * Ejemplo github
  * @author melola
  */
 public class Ejercicio1 {

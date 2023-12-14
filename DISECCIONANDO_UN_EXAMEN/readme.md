@@ -18,7 +18,7 @@ Vamos a aprender estrategias para en un ambiente hostil, como es un examen, poda
 # EJERCICIO 1: manipular información de un array de String
 Vamos a partir del siguiente array de cadenas que contiene información de matrículas de alumnos:
 
-´´´
+```
 String[] matriculas = {
             "Ana,11111111A,18,6,GM",
             "Juan,11111111B,25,3,GS",
@@ -27,7 +27,7 @@ String[] matriculas = {
             "Lucas,11111111B,32,2,gs",
             "Lola,33333333B,32,4,gs",
             "Lucas,33333333B,32,2,gs",};
-´´´
+```
 
 Para poder realizar las tres métodos que se detallan a continuación es necesario procesar cada una de las cadenas para **diseccionar** la información y clasificarlas en diferentes arrays unidimensionales (vectores), ya que los métodos van a recibir dicha información en ese formato.
 

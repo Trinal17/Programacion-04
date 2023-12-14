@@ -95,6 +95,14 @@ Debes implementar un método estático privado en base a los siguientes requisit
 - Tú decides los argumentos.
 - Obligatoriamente debe devolver una cadena con el nombre del alumno.
 
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/3240d9e4-4275-44bc-a15d-c52fd7e5450e) Piensa en las acciones que necesitas para lograr el objetivo:
+
+- Necesito saber el mayor importe. Para ello tengo que multiplicar el número de módulos por su correspondiente precio sabiendo que GM y GS tienen importes diferentes.
+- Por tanto necesito un bucle para que por cada alumno obtenga su número de módulos, su ciclo (teniendo en cuenta que no sea sensible a may y min) y hacer el cálculo.
+- Además debo comprobar si ese importe es mayor que el importe anteriormente calculado para así ir guardando el importe mayor. *¿No te recuerda esto a los métodos de ordenación vistos en clase?*
+- No olvides que además de guardar el importe mayor en cada iteración, debes guardar la posición para luego devolver el nombre del alumno en cuestión.
+  
+
 ### Ejemplo de salida por consola:
 ```
 3. El nombre del alumno que ha pagado más por la matrícula es: Sonia

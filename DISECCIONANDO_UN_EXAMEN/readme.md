@@ -39,7 +39,7 @@ Cada cadena está compuesta por:
 
 Para poder realizar las tres métodos que se detallan a continuación es necesario procesar cada una de las cadenas para **diseccionar** la información y clasificarlas en diferentes arrays unidimensionales (vectores), ya que los métodos van a recibir dicha información en ese formato.
 
-![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/3240d9e4-4275-44bc-a15d-c52fd7e5450e) En el reto de Heterograma aplicamos la forma de dividir una cadena en diferentes cadenas usando un carácter separador https://github.com/profeMelola/Programacion-04-2023-24/tree/main/Retos#reto-4-heterograma
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/8fdc94dc-eaf4-4356-91fe-5d30955ae7f7) En el reto de Heterograma aplicamos la forma de dividir una cadena en diferentes cadenas usando un carácter separador https://github.com/profeMelola/Programacion-04-2023-24/tree/main/Retos#reto-4-heterograma
 
 Después es tener claro que la posición 0 de todos los arrays guardarán información del alumno1, la posición 1 de todos los arrays guardarán información del alumno2...
 
@@ -95,7 +95,7 @@ Debes implementar un método estático privado en base a los siguientes requisit
 - Tú decides los argumentos.
 - Obligatoriamente debe devolver una cadena con el nombre del alumno.
 
-![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/3240d9e4-4275-44bc-a15d-c52fd7e5450e) **Piensa en el algoritmo y sus pasos para lograr el objetivo:**
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/492bc568-eef5-4312-9ff2-2bdeb1253080)**Piensa en el algoritmo y sus pasos para lograr el objetivo:**
 
 - Necesito saber el mayor importe. Para ello tengo que multiplicar el número de módulos por su correspondiente precio sabiendo que GM y GS tienen importes diferentes.
 - Por tanto necesito un bucle para que por cada alumno obtenga su número de módulos, su ciclo (teniendo en cuenta que no sea sensible a may y min) y hacer el cálculo.
@@ -133,7 +133,7 @@ Esto significa que la matriz puede tener más o menos filas y más o menos colum
 
 ![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/1112d484-b6f1-413a-bd38-476d24fc0e9f)
 
-![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/3240d9e4-4275-44bc-a15d-c52fd7e5450e) **¿Te has dado cuenta que cada fila tiene el formato de lo que devuelve el método Arrays.toString ?**
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/6e44a993-6274-4aa7-a225-69a3316344ca)**¿Te has dado cuenta que cada fila tiene el formato de lo que devuelve el método Arrays.toString ?**
 
 ## Comprar entradas y devolver asientos de forma automática
 

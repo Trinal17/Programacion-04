@@ -56,4 +56,20 @@ Tu programa debe mostrar por consola si cada una de las palabras o frases de la 
 
 Para ello debes programar una función que reciba una cadena y devuelva un booleano indicando si he heterograma o no.
 
+## RETO 5: anagrama
+
+Un anagrama es una palabra que resulta del cambio del orden de los caracteres de otra. 
+
+Ejemplos de anagramas son la palabra amor, ramo o mora.
+
+Implementa un método llamado **esAnagrama**. Dicho método recibe dos palabras y devuelve si son anagramas la una de la otra.
+
+Ejemplo de salida por consola:
+
+```
+La palabra <Amor> y la palabra <ROMA> son anagramas
+La palabra <Amor> y la palabra <rima> no anagramas
+```
+
+
 

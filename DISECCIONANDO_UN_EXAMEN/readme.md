@@ -68,8 +68,6 @@ Debes implementar un método estático privado en base a los siguientes requisit
 ### Ejemplo de salida por consola:
 ```
 1. El primer DNI repetido es: 11111111B
-2. La edad media de los alumnos matriculados es: 29
-3. El nombre del alumno que ha pagado más por la matrícula es: Sonia
 ```
 
 ## Obtener la edad media de los alumnos (obtenerEdadMedia)
@@ -79,6 +77,12 @@ Debes implementar un método estático privado en base a los siguientes requisit
 - Recibe como argumento un array con las edades.
 - Debe devolver la edad media sin decimales, con redondeo por defecto.
 
+### Ejemplo de salida por consola:
+```
+2. La edad media de los alumnos matriculados es: 29
+```
+
+
 ## Obtener nombre del alumno que ha pagado mayor importe por la matrícula (obtenerNombreAlumnoMayorImporte)
 Debes implementar un método estático privado en base a los siguientes requisitos:
 
@@ -86,5 +90,9 @@ Debes implementar un método estático privado en base a los siguientes requisit
 - Tú decides los argumentos.
 - Obligatoriamente debe devolver una cadena con el nombre del alumno.
 
+### Ejemplo de salida por consola:
+```
+3. El nombre del alumno que ha pagado más por la matrícula es: Sonia
+```
 
 

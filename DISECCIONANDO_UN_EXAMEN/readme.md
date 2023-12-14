@@ -5,7 +5,7 @@ El objetivo de esta práctica es **realizar paso a paso los diferentes ejercicio
 
 
 
-Copmprobaremos cómo dividiendo el problema en problemas más sencillos podemos resolverlo.
+Comprobaremos cómo dividiendo el problema en problemas más sencillos podemos resolverlo.
 
 También iremos detectando **problemas que se pueden resolver por "imitación"** aplicando los conceptos aprendidos en clase en ejercicios similares.
 

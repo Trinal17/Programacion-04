@@ -1,6 +1,10 @@
 # Diseccionando un examen
 El objetivo de esta práctica es **realizar paso a paso los diferentes ejercicios de un examen.**
 
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/ab67a0e9-7659-4516-829f-3c6581f69f99) ![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/55ec1193-b823-403b-aada-f4f75c987c0e)
+
+
+
 Copmprobaremos cómo dividiendo el problema en problemas más sencillos podemos resolverlo.
 
 También iremos detectando **problemas que se pueden resolver por "imitación"** aplicando los conceptos aprendidos en clase en ejercicios similares.

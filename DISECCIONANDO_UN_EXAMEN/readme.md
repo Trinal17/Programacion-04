@@ -168,8 +168,6 @@ La asignación automática empezará por la Fila 1, asiento A.
 Su compra debe ser consecutiva y en la misma fila. Si no hay asientos libres consecutivos en la misma fila, no se realizará la compra y se mostrará un aviso.
 
 Tras comprar correctamente las entradas:
-
-Debe mostrarse los asientos asignados a cada entrada.
-
-El cine debe quedar actualizado con los nuevos asientos ocupados.
+- Debe mostrarse los asientos asignados a cada entrada.
+- El cine debe quedar actualizado con los nuevos asientos ocupados.
 

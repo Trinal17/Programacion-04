@@ -41,6 +41,9 @@ Para poder realizar las tres métodos que se detallan a continuación es necesar
 
 ![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/3240d9e4-4275-44bc-a15d-c52fd7e5450e) En el reto de Heterograma aplicamos la forma de dividir una cadena en diferentes cadenas usando un carácter separador https://github.com/profeMelola/Programacion-04-2023-24/tree/main/Retos#reto-4-heterograma
 
+Después es tener claro que la posición 0 de todos los arrays guardarán información del alumno1, la posición 1 de todos los arrays guardarán información del alumno2...
+
+
 En el caso de que no supieras hacerlo, se daba la opción de crear dichos arrays a mano (con la siguiente penalización lógicamente). Tal que así:
 
 ```

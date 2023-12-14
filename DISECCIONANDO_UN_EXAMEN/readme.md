@@ -65,6 +65,12 @@ Debes implementar un método estático privado en base a los siguientes requisit
 - Recibe como argumento un array unidimensional con los DNIs.
 - Debe devolver la posición del primer DNI encontrado o -1 en caso de que no haya repetidos.
 
+### Ejemplo de salida por consola:
+```
+1. El primer DNI repetido es: 11111111B
+2. La edad media de los alumnos matriculados es: 29
+3. El nombre del alumno que ha pagado más por la matrícula es: Sonia
+```
 
 ## Obtener la edad media de los alumnos (obtenerEdadMedia)
 Debes implementar un método estático privado en base a los siguientes requisitos:

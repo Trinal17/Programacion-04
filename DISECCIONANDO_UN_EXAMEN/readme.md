@@ -108,4 +108,20 @@ Debes implementar un método estático privado en base a los siguientes requisit
 3. El nombre del alumno que ha pagado más por la matrícula es: Sonia
 ```
 
+# EJERCICIO 2: matrices
+
+El cine Avellaneda tiene una sala compuesta de 5 filas de 8 asientos cada una. 
+
+Está representado por la siguiente matriz, donde los asientos libres se representan con un guión (-) y los asientos ocupados con una (X).
+
+```
+        char[][] cine = {
+            {'-', '-', '-', '-', 'X', 'X', 'X', 'X'},
+            {'-', '-', '-', 'X', 'X', 'X', '-', '-'},
+            {'-', 'X', '-', '-', 'X', 'X', 'X', 'X'},
+            {'X', 'X', 'X', 'X', 'X', '-', '-', '-'},
+            {'X', 'X', '-', '-', '-', '-', '-', '-'}};
+```
+
+
 

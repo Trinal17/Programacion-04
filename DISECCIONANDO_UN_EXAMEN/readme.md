@@ -99,7 +99,7 @@ Debes implementar un método estático privado en base a los siguientes requisit
 
 - Necesito saber el mayor importe. Para ello tengo que multiplicar el número de módulos por su correspondiente precio sabiendo que GM y GS tienen importes diferentes.
 - Por tanto necesito un bucle para que por cada alumno obtenga su número de módulos, su ciclo (teniendo en cuenta que no sea sensible a may y min) y hacer el cálculo.
-- Además debo comprobar si ese importe es mayor que el importe anteriormente calculado para así ir guardando el importe mayor. *¿No te recuerda esto a los métodos de ordenación vistos en clase?*
+- Además debo comprobar si ese importe es mayor que el importe anteriormente calculado para así ir guardando el importe mayor. ¿No te recuerda esto a los métodos de ordenación vistos en clase?
 - No olvides que además de guardar el importe mayor en cada iteración, debes guardar la posición para luego devolver el nombre del alumno en cuestión.
   
 

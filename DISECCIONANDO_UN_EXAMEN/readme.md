@@ -135,6 +135,28 @@ Esto significa que la matriz puede tener más o menos filas y más o menos colum
 
 ![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/6e44a993-6274-4aa7-a225-69a3316344ca)**¿Te has dado cuenta que cada fila tiene el formato de lo que devuelve el método Arrays.toString ?**
 
+
+## Ampliar cine
+Se decide ampliar el cine con más filas.
+
+Debes tener en cuenta a la hora de programar esta funcionalidad que:
+- Pueden realizarse ampliaciones a lo largo del tiempo.
+- El número de filas a añadir puede variar en cada ampliación.
+- Los asientos de esas nuevas filas deben quedar especificados como vacíos.
+
+Por tanto, lo mejor es implementar un método que reciba la matriz (el cine) y el número de filas. En el examen se ponía el caso de prueba de ampliar con dos filas, dando como resultado lo siguiente:
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/b30a4435-a49b-4291-a513-d43090fde68f)
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/6e44a993-6274-4aa7-a225-69a3316344ca) **Piensa los pasos que debes de hacer para llegar a ampliar el cine y obtener la captura anterior:**
+
+Vamos a pensarlos en clase juntos ![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/80b5c61a-5beb-4df0-86f0-4d639af9915b)
+
+
+¿Recuerdas el ejercicio del puzzle y cómo se realizaba el clonado de una matriz para tener una copia del puzzle? https://github.com/profeMelola/Programacion-04-2023-24/tree/main/ARRAYS/EJERCICIOS/4.Puzzle
+
+
+
 ## Comprar entradas y devolver asientos de forma automática
 
 Se indicará el número de entradas a comprar.

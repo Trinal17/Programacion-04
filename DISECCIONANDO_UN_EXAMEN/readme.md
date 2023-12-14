@@ -150,7 +150,9 @@ Por tanto, lo mejor es implementar un método que reciba la matriz (el cine) y e
 
 ![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/6e44a993-6274-4aa7-a225-69a3316344ca) **Piensa los pasos que debes de hacer para llegar a ampliar el cine y obtener la captura anterior:**
 
-Vamos a pensarlos en clase juntos ![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/80b5c61a-5beb-4df0-86f0-4d639af9915b)
+Vamos a pensarlos en clase juntos
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/80b5c61a-5beb-4df0-86f0-4d639af9915b)
 
 
 ¿Recuerdas el ejercicio del puzzle y cómo se realizaba el clonado de una matriz para tener una copia del puzzle? https://github.com/profeMelola/Programacion-04-2023-24/tree/main/ARRAYS/EJERCICIOS/4.Puzzle

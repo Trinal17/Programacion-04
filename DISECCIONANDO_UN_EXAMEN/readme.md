@@ -39,7 +39,7 @@ Cada cadena está compuesta por:
 
 Para poder realizar las tres métodos que se detallan a continuación es necesario procesar cada una de las cadenas para **diseccionar** la información y clasificarlas en diferentes arrays unidimensionales (vectores), ya que los métodos van a recibir dicha información en ese formato.
 
-![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/a25ee32d-aa81-4a28-86e0-53ee9d19c4ae) En el reto de Heterograma aplicamos la forma de dividir una cadena en diferentes cadenas usando un carácter separador https://github.com/profeMelola/Programacion-04-2023-24/tree/main/Retos#reto-4-heterograma
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/3240d9e4-4275-44bc-a15d-c52fd7e5450e) En el reto de Heterograma aplicamos la forma de dividir una cadena en diferentes cadenas usando un carácter separador https://github.com/profeMelola/Programacion-04-2023-24/tree/main/Retos#reto-4-heterograma
 
 En el caso de que no supieras hacerlo, se daba la opción de crear dichos arrays a mano (con la siguiente penalización lógicamente). Tal que así:
 

@@ -123,5 +123,29 @@ Está representado por la siguiente matriz, donde los asientos libres se represe
             {'X', 'X', '-', '-', '-', '-', '-', '-'}};
 ```
 
+Debes implementar las siguientes funcionalidades como consideres en base a los siguientes requisitos:
 
+## Mostrar el estado del cine por consola
+
+Ten en cuenta que tu código debe ser reutilizable y valer para mostrar el estado de cualquier cine (con más o menos filas y columnas).
+
+Esto significa que la matriz puede tener más o menos filas y más o menos columnas. Por tanto lo mejor es hacer un método que reciba un cine (matriz de char) y lo muestre por consola de la siguiente manera:
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/1112d484-b6f1-413a-bd38-476d24fc0e9f)
+
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/3240d9e4-4275-44bc-a15d-c52fd7e5450e) **¿Te has dado cuenta que cada fila tiene el formato de lo que devuelve el método Arrays.toString ?**
+
+## Comprar entradas y devolver asientos de forma automática
+
+Se indicará el número de entradas a comprar.
+
+La asignación automática empezará por la Fila 1, asiento A.
+
+Su compra debe ser consecutiva y en la misma fila. Si no hay asientos libres consecutivos en la misma fila, no se realizará la compra y se mostrará un aviso.
+
+Tras comprar correctamente las entradas:
+
+Debe mostrarse los asientos asignados a cada entrada.
+
+El cine debe quedar actualizado con los nuevos asientos ocupados.
 

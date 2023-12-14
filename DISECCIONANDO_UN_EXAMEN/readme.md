@@ -112,6 +112,9 @@ Debes implementar un método estático privado en base a los siguientes requisit
 
 El cine Avellaneda tiene una sala compuesta de 5 filas de 8 asientos cada una. 
 
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/ececa393-1813-4996-83e3-fe46a3754cd9)
+
+
 Está representado por la siguiente matriz, donde los asientos libres se representan con un guión (-) y los asientos ocupados con una (X).
 
 ```

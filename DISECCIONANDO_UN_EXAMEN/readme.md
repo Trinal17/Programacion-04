@@ -29,6 +29,14 @@ String[] matriculas = {
             "Lucas,33333333B,32,2,gs",};
 ```
 
+Cada cadena está compuesta por: 
+- nombre del alumno.
+- su DNI
+- su edad
+- el número de módulos en los que se ha matriculado
+- el ciclo (Grado Medio: GM, Grado Superior: GS).
+
+
 Para poder realizar las tres métodos que se detallan a continuación es necesario procesar cada una de las cadenas para **diseccionar** la información y clasificarlas en diferentes arrays unidimensionales (vectores), ya que los métodos van a recibir dicha información en ese formato.
 
 En el caso de que no supieras hacerlo, se daba la opción de crear dichos arrays a mano (con la siguiente penalización lógicamente). Tal que así:

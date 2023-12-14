@@ -1,7 +1,3 @@
-/*
- * EXAMEN 1ª EVALUACIÓN PROGRAMACIÓN
- * DAW 1B
- */
 package es.daw.examen1ev;
 
 import static es.daw.examen1ev.Ejercicios.ejecutaEjercicio1;
@@ -11,7 +7,7 @@ import static es.daw.examen1ev.Ejercicios.ejecutaEjercicio3;
 
 /**
  *
- * @author melol
+ * @author melola
  */
 public class Examen1ev {
 

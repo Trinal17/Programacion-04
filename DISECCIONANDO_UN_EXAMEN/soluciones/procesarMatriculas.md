@@ -13,8 +13,8 @@ Se ha cargado el array de matrículas en arrays unidimensionales (vectores) con 
 
         String[] nombres = new String[matriculas.length];
         String[] dnis = new String[matriculas.length];
-        int[] edades = new String[matriculas.length];
-        int[] numModulos = new String[matriculas.length];
+        int[] edades = new int[matriculas.length];
+        int[] numModulos = new int[matriculas.length];
         String[] ciclos = new String[matriculas.length];
 
         String[] matricula;

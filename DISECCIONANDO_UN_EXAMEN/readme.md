@@ -161,13 +161,25 @@ Vamos a pensarlos en clase juntos
 
 ## Comprar entradas y devolver asientos de forma automática
 
-Se indicará el número de entradas a comprar.
+Estas son las especificaciones:
+- Se indicará el número de entradas a comprar.
+- La asignación automática empezará por la Fila 1, asiento A.
+- Su compra debe ser consecutiva y en la misma fila. Si no hay asientos libres consecutivos en la misma fila, no se realizará la compra y se mostrará un aviso.
+- Tras comprar correctamente las entradas:
+            - Debe mostrarse los asientos asignados a cada entrada.
+            - El cine debe quedar actualizado con los nuevos asientos ocupados.
 
-La asignación automática empezará por la Fila 1, asiento A.
 
-Su compra debe ser consecutiva y en la misma fila. Si no hay asientos libres consecutivos en la misma fila, no se realizará la compra y se mostrará un aviso.
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/492bc568-eef5-4312-9ff2-2bdeb1253080)**Vamos por partes:**
+  
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/74b54511-1d97-4e8a-a14a-767e2a3c4769)
 
-Tras comprar correctamente las entradas:
-- Debe mostrarse los asientos asignados a cada entrada.
-- El cine debe quedar actualizado con los nuevos asientos ocupados.
+¿Y si hago un método que reciba el cine (la matriz) y el número de filas y devuelva la fila donde hay asientos consecutivos libres y en caso contrario -1?
+
+Ya puedo saber y avisar con un mensaje en el caso de que no hayas filas libre y por tanto no se realizará la compra.
+
+Si hay filas libre, con ese número de fila puedo realizar la compra y gestionar los asientos.
+
+
+
 

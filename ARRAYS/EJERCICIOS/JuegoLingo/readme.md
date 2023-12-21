@@ -12,8 +12,8 @@ Implementa un programa en java que:
 - Las letras que están en la palabra pero no en el sitio exacto se marcan con un *.
 - Las letras que no están en la palabra se marcan con el guión - 
 
-Ejemplo:
-Si la palabra a adivinar es hueso:
+## Ejemplo:
+**Si la palabra a adivinar es hueso:**
 
 ```
 

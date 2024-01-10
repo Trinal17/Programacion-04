@@ -7,3 +7,8 @@ Debes implementar un programa que introducido el número de la tabla y el númer
 El resultado a mostrar por el programa debe ser similar al siguiente:
 
 ![image](https://user-images.githubusercontent.com/91023374/141115917-238e1097-32b8-4aa1-8e15-a1832cc432e7.png)
+
+## Reto 2
+
+Realiza una función recursiva que sume los primeros n enteros positivos (dados por el usuario).
+

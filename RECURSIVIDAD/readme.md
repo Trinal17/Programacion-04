@@ -12,3 +12,6 @@ El resultado a mostrar por el programa debe ser similar al siguiente:
 
 Realiza una función recursiva que sume los primeros n enteros positivos (dados por el usuario).
 
+![image](https://github.com/profeMelola/Programacion-04-2023-24/assets/91023374/ee95076e-c7d5-45f5-87f1-a12d80af705e)
+
+

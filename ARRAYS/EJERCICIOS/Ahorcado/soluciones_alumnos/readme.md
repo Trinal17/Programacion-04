@@ -17,7 +17,7 @@ Primero haz fork desde la interfaz de github del proyecto en el cual queremos co
 
 Después pide un pull request desde la interfaz de github.
 
-###Si vas a trabajar con Visual Studio Code
+### Si vas a trabajar con Visual Studio Code
 
 Estos serían los pasos:
 

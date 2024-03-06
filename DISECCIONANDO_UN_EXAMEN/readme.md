@@ -169,7 +169,9 @@ Estas son las especificaciones:
 - La asignación automática empezará por la Fila 1, asiento A.
 - Su compra debe ser consecutiva y en la misma fila. Si no hay asientos libres consecutivos en la misma fila, no se realizará la compra y se mostrará un aviso.
 - Tras comprar correctamente las entradas:
+  
             - Debe mostrarse los asientos asignados a cada entrada.
+  
             - El cine debe quedar actualizado con los nuevos asientos ocupados.
 
 
@@ -180,6 +182,7 @@ Estas son las especificaciones:
 1. ¿Y si hago un método que reciba el cine (la matriz) y el número de filas y devuelva la fila donde hay asientos consecutivos libres y en caso contrario -1?
 2. Ya puedo saber y avisar con un mensaje en el caso de que no hayas filas libre (numFila == -1) y por tanto no se realizará la compra.
 3. Si hay fila con asientos consecutivos libres (suficientes para el número de entradas), con ese número de fila puedo realizar la compra y gestionar los asientos.
+   
             3.1 Piensa en un método que reciba el cine, el número de entradas, el número de fila y devuelva un array de String con los asientos, por ejemplo ["A1","A2"]
 
 

@@ -23,7 +23,7 @@ https://aulavirtual3.educa.madrid.org/ies.alonsodeavellan.alcala/course/view.php
 
 
 ## Página principal del curso
-[VOLVER PÁGINA PRINCIPAL](https://github.com/profeMelola/Programacion-00-2023-24)
+[VOLVER PÁGINA PRINCIPAL](https://github.com/Trinal17/Programacion)
 
 ## Licencia
 
